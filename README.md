@@ -21,5 +21,4 @@ If you anticipate a higher volume of outgoing transactions - please research web
 #### Useful Links
 
 1. [Contract source code](https://github.com/ElcoinCurrency/ElcoinContract/tree/master/contracts "Elcoin contract source code")
-2. [Contract ABI](FIXME)
 2. [Transaction notifications service](https://github.com/Ambisafe/etoken-docs/wiki/Transaction-Notifications "Transaction notifications service")
