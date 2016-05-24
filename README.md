@@ -1,4 +1,4 @@
-# eToken Server Side Examples
+# Elcoin Server Side Examples
 ## Installation
 
 `npm install`
