@@ -17,6 +17,7 @@ if (amount.decimalPlaces() !== 0) {
 var handler = function(err, tx) {
   if (err) {
     throw err;
+    process.exit(1);
   }
   console.log(tx);
   process.exit();
