@@ -7,6 +7,10 @@
 
 Specify private key of sender account in the `config.js`.
 
+## Where to get Elcoin? 
+
+If you need Elcoin for any purposes, you can buy it for Bitcoin at [elcoin.space] (http://elcoin.space/). 
+
 ## Information
 
 [Elcoin](http://elcoin.space/) is a smart contract, built using [Ethereum cryptocurrency network](https://ethereum.org/) and [Solidity programming language](https://solidity.readthedocs.io/en/latest/).
